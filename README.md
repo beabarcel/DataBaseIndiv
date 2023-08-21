@@ -24,3 +24,5 @@ Diagrama Lógico para representação do registro de uma denúncia realizada pel
 
 ![Diagrama Lógico](https://i.imgur.com/fy99hz2.jpg)
 
+## Autor
+<img src="https://cdn.discordapp.com/attachments/1135262336819679372/1140675577733464254/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector_2-removebg-preview.png" height="70" width="70" /> - [Beatriz Barcelos Cardozo](https://github.com/beabarcel)
