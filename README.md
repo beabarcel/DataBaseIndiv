@@ -18,8 +18,9 @@ Sistema de Gerenciamento de Banco de Dados (SGBD) utilizado para o armazenamento
 
 Diagrama Conceitual para representação do registro de uma denúncia realizada pela vítima:
 
-![Diagrama Conceitual](https://i.imgur.com/n6fsP3V.jpg)
+![Diagrama Conceitual](https://i.imgur.com/UvHdUGy.jpg)
 
 Diagrama Lógico para representação do registro de uma denúncia realizada pela vítima:
 
-![Diagrama Lógico](https://imgur.com/a/GA0kwLS.jpg)
+![Diagrama Lógico](https://i.imgur.com/fy99hz2.jpg)
+
