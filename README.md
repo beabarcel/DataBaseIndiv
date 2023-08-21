@@ -1,5 +1,7 @@
+<h1 align="center"> Banco de dados para registros de infrações e crimes. </h1>
+<base target="_blank">
 
-Esse projeto permite que o usuário faça buscas no banco de dados de uma delegacia de polícia e possa consultar as seguintes informações:
+<font size="4">Esse projeto permite que o usuário faça buscas no banco de dados de uma delegacia de polícia e possa consultar as seguintes informações:</font>
 
 - Tipos de infrações/crimes cometidos;
 - Informações sobre a vítima (nome, endereço, telefone, cpf e data de nascimento);
@@ -25,4 +27,5 @@ Diagrama Lógico para representação do registro de uma denúncia realizada pel
 ![Diagrama Lógico](https://i.imgur.com/fy99hz2.jpg)
 
 ## Autor
-<img src="https://cdn.discordapp.com/attachments/1135262336819679372/1140675577733464254/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector_2-removebg-preview.png" height="70" width="70" /> - [Beatriz Barcelos Cardozo](https://github.com/beabarcel)
+<img src="https://cdn.discordapp.com/attachments/1135262336819679372/1140675577733464254/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector_2-removebg-preview.png" height="70" width="70" /> 
+[Beatriz Barcelos Cardozo](https://github.com/beabarcel)
