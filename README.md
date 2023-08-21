@@ -16,6 +16,10 @@ Sistema de Gerenciamento de Banco de Dados (SGBD) utilizado para o armazenamento
 
 - PostgreSQL.
 
-Diagrama conceitual para representação do registro de uma denúncia realizado pela vítima:
+Diagrama Conceitual para representação do registro de uma denúncia realizada pela vítima:
 
-[![Diagrama Conceitual](https://imgur.com/a/n6fsP3V)](https://github.com/beabarcel/DataBaseIndiv/blob/a14c0e8516b2c8e0869f2222a7750c31f701dd80/Diagrama%20conceitual.jpg)https://github.com/beabarcel/DataBaseIndiv/blob/a14c0e8516b2c8e0869f2222a7750c31f701dd80/Diagrama%20conceitual.jpg
+![Diagrama Conceitual](https://i.imgur.com/n6fsP3V.jpg)
+
+Diagrama Lógico para representação do registro de uma denúncia realizada pela vítima:
+
+![Diagrama Lógico](https://imgur.com/a/GA0kwLS.jpg)
