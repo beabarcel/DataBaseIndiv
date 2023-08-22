@@ -1,7 +1,7 @@
 <h1 align="center"> Banco de dados para registros e consultas de infrações e crimes. </h1>
 <base target="_blank">
 
-<font size="4">Esse projeto permite que o usuário faça buscas no banco de dados de uma delegacia de polícia e possa consultar as seguintes informações:</font>
+<font size="4">Esse projeto permite que o usuário faça buscas no banco de dados de uma delegacia de polícia e possa consultar e/ou registrar as seguintes informações:</font>
 
 - Tipos de infrações/crimes cometidos;
 - Informações sobre a vítima (nome, endereço, telefone, cpf e data de nascimento);
