@@ -20,11 +20,11 @@ Sistema de Gerenciamento de Banco de Dados (SGBD) utilizado para o armazenamento
 
 Diagrama Conceitual para representação do registro de uma denúncia realizada pela vítima:
 
-![Diagrama Conceitual](https://i.imgur.com/UvHdUGy.jpg)
+![Diagrama Conceitual](https://i.imgur.com/l6BrCxV.jpg)
 
 Diagrama Lógico para representação do registro de uma denúncia realizada pela vítima:
 
-![Diagrama Lógico](https://i.imgur.com/rz2guhY.jpg)
+![Diagrama Lógico](https://i.imgur.com/Zmc8fMj.jpg)
 
 ## Autor
 <img src="https://cdn.discordapp.com/attachments/1135262336819679372/1140675577733464254/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector_2-removebg-preview.png" height="70" width="70" /> 
